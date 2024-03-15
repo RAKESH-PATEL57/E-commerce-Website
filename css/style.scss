@@ -2,4 +2,29 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+body
+{
+    // height: 100vh;
+}
+
+header
+{
+    border: 2px solid aqua;
+}
+
+header .top_txt
+{
+    border: 2px solid red;
+    padding: .5rem 3rem;
+}
+
+.signin-signup-container
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
 }
