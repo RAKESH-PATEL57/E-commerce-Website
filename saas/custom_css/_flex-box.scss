@@ -1,0 +1,6 @@
+@mixin flex-box($placing)
+{
+    display: flex;
+    justify-content: $placing;
+    align-items: center;
+}

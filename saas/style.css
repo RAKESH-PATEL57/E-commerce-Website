@@ -11,12 +11,13 @@ header {
 }
 
 header .top_txt {
-  border: 2px solid red;
+  border: 2px solid purple;
   padding: 0.5rem 3rem;
 }
 
 .signin-signup-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-size: 1.5rem;
 }/*# sourceMappingURL=style.css.map */
